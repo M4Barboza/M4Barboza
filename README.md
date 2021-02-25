@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá Mundo 👋, I´m Matheus Barboza
 
-<!--
-**M4Barboza/M4Barboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, bem-vindo ao meu perfil, sou estudante de Bacharelado em Informática da UEM e estou começando na área da programação. 
+Estou em busca de estágios para aprender tecnologias mas atualmente tenho estudado por conta própria além da faculdade.
+No momento as tecnologias que conheço e estou aprendendeno são:
+-HTML5;
+-CSS3;
+-JavaScript;
+-C;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
