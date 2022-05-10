@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/71778218/142737694-6304a58f-4377-4b8b-b87e-4328c4956c86.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Pessoa com um computador">
-<h1 align="left"><b>Hello World 🌎, I´m Matheus Barboza 👋.</b></h1>
+<h1 align="left"><b>Hello World 🌎, I´m Matheus Barboza 😎🌹.</b></h1>
 <p align="left">Olá, bem-vindo ao meu perfil, sou estudante de Bacharelado em Informática da UEM e estou começando na área da programação.</p>
 <p align="left">📚 Estou em busca de estágios para aprender tecnologias mas atualmente tenho estudado por conta própria além da faculdade.</p>
 
