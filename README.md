@@ -21,7 +21,12 @@
 </a>
 
 <br>
-
+<div align="center">
+  
+  ![Snake animation](https://github.com/M4Barboza/M4Barboza/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+<br>
 <p align="left">
   <a href="https://www.instagram.com/matheus____barboza/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/matheus____barboza/"/>
