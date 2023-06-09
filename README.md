@@ -1,7 +1,8 @@
-<img src="https://user-images.githubusercontent.com/71778218/142737694-6304a58f-4377-4b8b-b87e-4328c4956c86.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Pessoa com um computador">
 <h1 align="left"><b>Hello World 🌎, I´m Matheus Barboza 😎🌹.</b></h1>
 <p align="left">Olá, bem-vindo ao meu perfil, sou estudante de Bacharelado em Informática da UEM e curto dar uma progamada.</p>
 <p align="left">📚 Estou em busca de estágios, vagas sandy&júnior para aprender tecnologias novas. Atualmente tenho estudado por conta própria além da faculdade.</p>
+
+![giphy](https://github.com/M4Barboza/M4Barboza/assets/71778218/cfe9657f-e0ff-47cb-9430-d1199db582a8)
 
 <h3 align="left">🤖 No momento as tecnologias que conheço e estou aprendendo são:</h3>
 
