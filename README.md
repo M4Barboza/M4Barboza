@@ -3,7 +3,7 @@
 <p align="left">📚 Estou em busca de estágios, vagas sandy&júnior para aprender tecnologias novas. Atualmente tenho estudado por conta própria além da faculdade.</p>
 
 <div align="center">
-	![giphy](https://github.com/M4Barboza/M4Barboza/assets/71778218/cfe9657f-e0ff-47cb-9430-d1199db582a8)
+	<img src="https://github.com/M4Barboza/M4Barboza/assets/71778218/cfe9657f-e0ff-47cb-9430-d1199db582a8"/>
 </div>
 
 <h3 align="left">🤖 No momento as tecnologias que conheço e estou aprendendo são:</h3>
