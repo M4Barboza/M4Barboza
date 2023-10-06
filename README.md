@@ -1,12 +1,15 @@
 <h1 align="left"><b>Hello World 🌎, I´m Matheus Barboza 😎🌹.</b></h1>
 <p align="left">Olá, bem-vindo ao meu perfil, sou estudante de Bacharelado em Informática da UEM e curto dar uma progamada.</p>
 <p align="left">📚 Estou em busca de estágios, vagas sandy&júnior para aprender tecnologias novas. Atualmente tenho estudado por conta própria além da faculdade.</p>
+<p align="left">Hi, welcome to my profile, I'm a student of Computer Science at UEM and I love to code.</p>
+<p align="left">📚 I'm looking for internships, entry-level positions to learn new technologies. I'm currently studying on my own in addition to college.</p>
 
 <div align="center">
 	<img src="https://github.com/M4Barboza/M4Barboza/assets/71778218/cfe9657f-e0ff-47cb-9430-d1199db582a8"/>
 </div>
 
 <h3 align="left">🤖 No momento as tecnologias que conheço e estou aprendendo são:</h3>
+<h3 align="left">🤖 At moment my stacks are:</h3>
 
 <p align="left"> 
 <div align="center">
