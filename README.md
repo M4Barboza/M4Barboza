@@ -8,7 +8,44 @@
 	<img src="https://github.com/M4Barboza/M4Barboza/assets/71778218/cfe9657f-e0ff-47cb-9430-d1199db582a8"/>
 </div>
 
-<h3 align="left">🤖 No momento as tecnologias que conheço e estou aprendendo são:</h3>
+
+## About Me
+```CSharp
+var name = new Name("Matheus","Barboza");
+var mainLanguages = new List<Language>
+{
+    new Language("C#"),
+    new Language("SQL Server")
+};
+var alsoKnowLanguages = new List<Language>
+{
+    new Language("JavaScript"),
+    new Language("C")
+};
+var mainFrameworks = new List<Framework>
+{
+    new Framework("ASP.NET MVC"),
+    new Framework("API RESTful")
+};
+var alsoKnowFrameworks = new List<Framework>
+{
+    new Framework("Vue.js"),
+    new Framework("React")
+};
+var tools = new List<Tool>
+{
+    new Tool("GitHub"),
+    new Tool("GitLab"),
+    new Tool("SVN"),
+    new Tool("PostMan"),
+    new Tool("Visual Studio"),
+    new Tool("Visual Studio Code"),
+};
+
+var matheus = new Devoloper(name, framewoork, tools, languages);
+```
+
+<!--<h3 align="left">🤖 No momento as tecnologias que conheço e estou aprendendo são:</h3>
 <h3 align="left">🤖 At moment my stacks are:</h3>
 
 <p align="left"> 
@@ -33,7 +70,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
 </div>
-</p>
+</p>-->
 
 <br>
 
@@ -42,12 +79,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4Barboza&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
-<br>
-<div align="center">
-  
-  ![Snake animation](https://github.com/M4Barboza/M4Barboza/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 <br>
 <p align="left">
   </a>
