@@ -6,10 +6,6 @@
 	<p align="left">📚 I'm looking for internships, entry-level positions to learn new technologies. I'm currently studying on my own in addition to college.</p>
 </div>
 
-<div align="right" width="200">
-	<img src="https://github.com/M4Barboza/M4Barboza/assets/71778218/cfe9657f-e0ff-47cb-9430-d1199db582a8"/>
-</div>
-
 ## About Me
 ```CSharp
 var name = new Name("Matheus","Barboza");
