@@ -6,41 +6,7 @@
 	<p align="left">📚 I'm looking for internships, entry-level positions to learn new technologies. I'm currently studying on my own in addition to college.</p>
 </div>
 
-## About Me
-```CSharp
-var name = new Name("Matheus","Barboza");
-var mainLanguages = new List<Language>
-{
-    new Language("C#"),
-    new Language("SQL Server")
-};
-var alsoKnowLanguages = new List<Language>
-{
-    new Language("JavaScript"),
-    new Language("C")
-};
-var mainFrameworks = new List<Framework>
-{
-    new Framework("ASP.NET MVC"),
-    new Framework("API RESTful")
-};
-var alsoKnowFrameworks = new List<Framework>
-{
-    new Framework("Vue.js"),
-    new Framework("React")
-};
-var tools = new List<Tool>
-{
-    new Tool("GitHub"),
-    new Tool("GitLab"),
-    new Tool("SVN"),
-    new Tool("PostMan"),
-    new Tool("Visual Studio"),
-    new Tool("Visual Studio Code"),
-};
 
-var matheus = new Devoloper(name, framewoork, tools, languages);
-```
 <br>
 
 <a href="https://github.com/M4Barboza">
